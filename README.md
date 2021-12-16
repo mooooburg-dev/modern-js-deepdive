@@ -2,4 +2,5 @@
 
 ## 모던 자바스크립트 Deep Dive
 
-[4장 변수](/modern-js-deepdive/4%EC%9E%A5%20%EB%B3%80%EC%88%98)  
+[4장 변수](/modern-js-deepdive/4장%20변수)  
+[5장 표현식과 문](/modern-js-deepdive/5장%20표현식과%20문)
