@@ -3,4 +3,5 @@
 ## 모던 자바스크립트 Deep Dive
 
 [4장 변수](/modern-js-deepdive/4장%20변수)  
-[5장 표현식과 문](/modern-js-deepdive/5장%20표현식과%20문)
+[5장 표현식과 문](/modern-js-deepdive/5장%20표현식과%20문)  
+[6장 데이터 타입](/modern-js-deepdive/6장%20데이터%20타입)
