@@ -7,3 +7,4 @@
 [6장 데이터 타입](/modern-js-deepdive/6장%20데이터%20타입)  
 [7장 연산자](/modern-js-deepdive/7장%20연산자)  
 [8장 제어문](/modern-js-deepdive/8장%20제어문)  
+[9장 타입 변환과 단축 평가](/modern-js-deepdive/9장%20타입%20변환과%20단축%20평가)  
