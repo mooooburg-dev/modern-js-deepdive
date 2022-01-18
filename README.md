@@ -8,4 +8,4 @@
 [7장 연산자](/modern-js-deepdive/7장%20연산자)  
 [8장 제어문](/modern-js-deepdive/8장%20제어문)  
 [9장 타입 변환과 단축 평가](/modern-js-deepdive/9장%20타입%20변환과%20단축%20평가)  
-10장 객체 리터럴
+[10장 객체 리터럴](/modern-js-deepdive/10장%20객체%20리터럴)  
